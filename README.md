@@ -15,13 +15,12 @@ TOOLS USED
 - SQL
 - 
 REPOSITORY STRUCTURE
-<retail-sales-sql/
-├── README.md
-├── schema.sql
-├── queries.sql
-└── screenshots
->
->
+retail-sales-sql/
+README.md
+schema.sql
+queries.sql
+screenshots
+
 CHALLENGES FACED
 - Juggling day to day work and course work
 - Internet outage issues
